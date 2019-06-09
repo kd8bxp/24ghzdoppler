@@ -46,3 +46,11 @@ This program is free software: you can redistribute it and/or modify
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses>
+
+### Notes:
+
+June 2019 FreqPeriod_1_12.zip library from http://interface.khm.de/index.php/lab/interfaces-advanced/frequency-measurement-library/  
+
+### 1.8.9 June 2019
+
+
